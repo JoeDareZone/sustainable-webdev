@@ -13,7 +13,7 @@
 
 The Green Web Foundation provide an excellent tool to check if a website passes its "Green Test".
 <br>
-It checks weather a webistes avoids, reduces, or offsets the emissions caused by the digital infrastructure it relies on.
+It checks whether a website avoids, reduces, or offsets the emissions caused by the digital infrastructure it relies on.
 
 https://www.thegreenwebfoundation.org/
 
