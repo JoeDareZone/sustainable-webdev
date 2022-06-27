@@ -9,6 +9,14 @@
 - [Credits](#credits)
 - [License](#license)
 
+## Intro
+
+What is a Green Web Designer?
+
+A Green web designer is one who creates websites that have minimal impact on the environment.
+
+https://blueraspdesign.com/what-is-a-green-web-designer/
+
 ## Carbon
 
 The Green Web Foundation provides an excellent tool to check if a website passes its "Green Test".
