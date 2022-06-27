@@ -2,16 +2,17 @@
 
 :computer::seedling: Curated resources for web development that put the planet first.
 
+<!--
 ## Table of Contents
-
 
 - [Carbon](#carbon)
 - [Credits](#credits)
 - [License](#license)
+-->
 
 ## Intro
 
-What is a Green Web Designer?
+<i>What is a Green Web Designer?</i>
 
 A Green web designer is one who creates websites that have minimal impact on the environment.
 
