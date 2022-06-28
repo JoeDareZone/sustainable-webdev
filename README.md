@@ -8,6 +8,7 @@
 - [Carbon](#carbon)
 - [Credits](#credits)
 - [License](#license)
+- [Strategies](#strategies)
 -->
 
 ## Intro
@@ -29,6 +30,18 @@ https://www.thegreenwebfoundation.org/
 Another free tool that checks websites' carbon footprint
 
 https://www.websitecarbon.com/
+
+and website's performance. A slow one would consume more energy.
+
+https://tools.pingdom.com/
+
+## Sustainable web development strategies
+
+https://sustainablewebdesign.org/
+1. Design
+2. Development
+3. Hosting
+
 ## Credits
 
 #### Collected by Joe and Tia
