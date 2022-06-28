@@ -26,6 +26,9 @@ It checks whether a website avoids, reduces, or offsets the emissions caused by 
 
 https://www.thegreenwebfoundation.org/
 
+Another free tool that checks websites' carbon footprint
+
+https://www.websitecarbon.com/
 ## Credits
 
 #### Collected by Joe and Tia
